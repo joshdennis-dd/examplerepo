@@ -2,3 +2,4 @@ Example file to make changes to.
 
 Say hello!
 Hi!!
+Hello :)
